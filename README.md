@@ -1,4 +1,4 @@
-Qt-using-C-Notepad
+                                                              Qt-using-C-Notepad
                 01. Introduction
 I am Amandi Soysa I am a student of the University of Plymouth and majoring in software Engineering Degree program. In this Q-Notepad was build by using the Qt framework and C++. There are no age requirements to use this Q-Notepad. It is easy to use and understand. This software application is not a commercial application that people can download and install in themselves. This software application is developed for SOFT336SL module.
 
